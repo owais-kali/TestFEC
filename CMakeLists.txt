@@ -1,4 +1,7 @@
 project("Sandbox")
 
 add_executable(main 
-main.c)
+main.c
+CreateFEC.c
+healper.c
+)
